@@ -12,6 +12,6 @@ Este é um projeto desenvolvido pela [Rocketseat](https://youtu.be/XdqD8qi44Cg).
 - CSS 
 - JavaScript
 
-## Author
+## Autor
 
 - Linkedin - [matheus-cardoso356](https://www.linkedin.com/in/matheus-cardoso356/)
