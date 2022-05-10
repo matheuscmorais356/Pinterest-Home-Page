@@ -1,6 +1,6 @@
 # Clone Pinterest Home Page
 
-Esta é um projeto desenvolvido pela [Rocketseat](https://youtu.be/XdqD8qi44Cg).
+Este é um projeto desenvolvido pela [Rocketseat](https://youtu.be/XdqD8qi44Cg).
 
 ### Links
 
